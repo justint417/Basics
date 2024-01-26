@@ -1,2 +1,3 @@
 # CS3704 SE Basics Workshop
-Hello!
+Justin Turkiewicz
+Hello GitHub!
